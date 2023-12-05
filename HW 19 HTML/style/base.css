@@ -1,0 +1,13 @@
+table {border:2px solid royalblue;}
+p {font-size: 17px;}
+h2 {color: royalblue;}
+h3 {color: royalblue;}
+caption {color: royalblue; text-align: left;}
+th {font-size: 17px; text-align: left;}
+.p_f1 {font-size: 17px;}
+.c_f1 {font-family: cursive;}
+#i_1 {font-family: cursive;}
+.p_f2 {text-decoration: none; color: blueviolet; font-size: 17px;}
+#i_2 {background-image: url("../img/image5.jpg"); background-repeat: no-repeat; background-position: left;}
+.c_f2 {color: aliceblue}
+footer {text-align: center;}
